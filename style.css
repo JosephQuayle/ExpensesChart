@@ -41,6 +41,10 @@ body {
   align-self: center;
 }
 
+.balance-text h2 {
+  font-size: 2rem;
+}
+
 main {
   display: flex;
   flex-direction: column;
@@ -101,6 +105,14 @@ h4 {
   }
 
   .spending h1 {
+    font-size: 1.5rem;
+  }
+
+  .balance-text p {
+    font-size: 0.8rem;
+  }
+
+  .balance-text h2 {
     font-size: 1.5rem;
   }
 }
