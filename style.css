@@ -27,7 +27,7 @@ body {
   justify-content: space-between;
   padding: 1.5rem;
   background-color: hsl(10, 79%, 65%);
-  border-radius: 10px;
+  border-radius: 20px;
   color: white;
 }
 
@@ -48,13 +48,13 @@ body {
 main {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 
 .spending {
   padding: 1.5rem;
   background-color: white;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .spending h1 {
@@ -84,11 +84,11 @@ h4 {
 }
 
 .line {
-  padding: 0.8px;
+  padding: 1.4px;
   background-color: hsl(29, 63%, 92%);
-  border-radius: 10px;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  border-radius: 20px;
+  margin-top: 1.8rem;
+  margin-bottom: 1.8rem;
 }
 
 #spendingChart {
